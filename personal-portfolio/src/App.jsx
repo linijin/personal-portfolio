@@ -117,7 +117,7 @@ function App() {
                 Apps Developer
               </div>
               <div className="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                <a href="dist/img/Resume.pdf" className="btn btn-outline-light mr-5">
+                <a href="public\img\Resume.pdf" className="btn btn-outline-light mr-5">
                   Download CV
                 </a>
                 {/* <button
