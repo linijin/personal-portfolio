@@ -117,7 +117,7 @@ function App() {
                 Apps Developer
               </div>
               <div className="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
-                <a href="" className="btn btn-outline-light mr-5">
+                <a href="dist/img/Resume.pdf" className="btn btn-outline-light mr-5">
                   Download CV
                 </a>
                 {/* <button
@@ -534,11 +534,11 @@ function App() {
               <div className="position-relative overflow-hidden mb-2">
                 <img
                   className="img-fluid rounded w-100"
-                  src="img/portfolio-4.1.jpg"
+                  src="img/portfolio-4.jpg"
                   alt=""
                 />
                 <div className="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
-                  <a href="img/portfolio-4.1.jpg" data-lightbox="portfolio">
+                  <a href="img/portfolio-4.jpg" data-lightbox="portfolio">
                     <i className="fa fa-plus text-white" style={{ fontSize: 60 }} />
                   </a>
                 </div>
